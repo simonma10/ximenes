@@ -1,0 +1,65 @@
+Definition
+Wordplay / Subsidiary indication
+Indicators/code words (trigger certain types of wordplay)
+linked word or phrase: from, gives, could be, 's, is, for
+
+
+## Anagram ##
+Re-arrange letters
+Anagram: strange, bizarre, muddled, wild, drunk, [any term indicating change]
+Anagram indicators, among the thousands possible, include: about, abstract, absurd, adapted, adjusted, again, alien, alternative, anew, another, around, arranged, assembled, assorted, at sea, awful, awkward, bad, barmy, becomes, blend, blow, break, brew, build, careless, changed, chaotic, characters, clumsy, composed, confused, contrived, convert, cooked, corrupt, could be, crazy, damaged, dancing, designed, develop, different, disorderly, disturbed, doctor, eccentric, edited, engineer, fabricate, fake, fancy, faulty, fiddled, fix, foolish, form, free, fudge, gives, ground, hammer, haywire, hybrid, improper, in a tizzy, involved, irregular, jostle, jumbled, jumping, kind of, knead, letters, loose, made, managed, maybe, messy, mistaken, mix, modified, moving, muddled, mutant, new, novel, odd, off, order, organised, otherwise, out, outrageous, peculiar, perhaps, playing, poor, possible, prepared, produced, queer, questionable, random, reform, remodel, repair, resort, rough, shaken, shifting, silly, sloppy, smashed, somehow, sort, spoilt, strange, style, switch, tangled, treated, tricky, troubled, turning, twist, unconventional, undone, unsettled, unsound, untidy, unusual, upset, used, vary, version, warped, wayward, weird, wild, working, wrecked, wrong.
+
+## Charade ##
+Join individually clued words to make a larger word, eg "Outlaw leader managing money" = BAN+KING
+sequence of words may be indicated by prepositions: against, after, on, with, above
+
+## Container ##
+One set of letters inside another: "Apostle's friend outside of university" = PAL outside of U = PAUL
+
+## Deletion ##
+beheadments, curtailments, internal deletions
+eg headless, endless, topless, unfinished
+
+## Double Definition ##
+Both parts are definitional, eg "Eastern European Buff" = POLISH
+two-word clues are almost always double-definition
+
+## Hidden word ##
+aka Embedded words, telescopic clues
+Answer appears in the clue, contained in one or more words, eg "Found ermine deer hides damaged" = UNDERMINED
+Indicators: in part, partially, in, within, hides, conceals, contains, some, held by
+
+## Initial letters ##
+First letters of clue words, eg "Initially amiable person eats primate" = APE
+Indicators: Initial, Initially, At first, Firstly, start
+Final letters = end of
+
+## Odd/even letters ##
+Take the odd or even letters to find the answer, eg "Odd stuff of Mr Waugh is set for someone wanting women to vote" = SUFFRAGIST
+
+## Homophones ##
+Words that sound the same but have different meanings, eg night and knight
+Indicator related to phonetics: reportedly, said, utterly, vocal, audience, auditioned, sounds, heard, conversaiton, radio, broadcast
+
+## Reversal ##
+Word gets turned around, eg "Returned beer fit for a king" = REGAL
+Indicators: "receding", "in the mirror", "going the wrong way", "returns", "reverses" "to the left" or "left" (for across clues), and "rising", "overturned" or "mounted" or "comes up" (for down clues).
+
+## Cryptic definition / Punny Clue ##
+Appears to say one thing, but actually refers to another, eg "Flower of London?" (6) = THAMES
+Often (but not always) indicated by a question mark
+
+## Spoonerism ##
+Corresponding morphemes are switched between two words in a phrase (or syllables in a word)
+Indicated by "Spooner" or "Rev"
+
+## &lit / Literal ##
+Variant on existing clue type, for example the entire clue is both definition and a cryptic clue.
+Often indicated by exclamation mark
+e,g "God incarnate, essentially!" (4) = ODIN
+[Hidden word] indicated by [essentially], but definition is also in whole clue
+e.g. "Spoil vote!" (4) = VETO.  [spoil] = both [definition] and [anagram indicator]
+
+## Abbreviations ##
+long list of indicators...
+https://en.wikipedia.org/wiki/Crossword_abbreviations
